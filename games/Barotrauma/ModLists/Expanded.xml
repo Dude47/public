@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods name="Expanded">
+  <Vanilla />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Cs For Barotrauma" id="2795927223" />
+  <Workshop name="Performance Fix" id="2701251094" />
+  <Workshop name="BaroTraumatic" id="2518816103" />
+  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
+  <Workshop name="More Unique Weapons (v1.1) [EN/RU]" id="2900879567" />
+  <Workshop name="Genes+ Revived and Expanded" id="2799033770" />
+  <Workshop name="More Artifacts (AOCS)" id="2776026770" />
+  <Workshop name="SFB with DE" id="2907491279" />
+  <Workshop name="NEEDS - NT Compatibility" id="2930788862" />
+  <Workshop name="NEEDS" id="2929084649" />
+  <Workshop name="Hungry Europans" id="2954998725" />
+  <Workshop name="DynamicEuropa - Frith's Biomes Compatibility Patch" id="2911529819" />
+  <Workshop name="Frith's Biomes" id="2020332046" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="Stations from beyond" id="2585543390" />
+  <Workshop name="Music from beyond" id="2591077026" />
+  <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
+  <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
+  <Workshop name="Sellable Pirates" id="2810462005" />
+  <Workshop name="Beacons Extended" id="2389600483" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Real Sonar" id="2936760984" />
+  <Workshop name="Let Them All In" id="2805065898" />
+  <Workshop name="Neurotrauma" id="2776270649" />
+  <Workshop name="Hazardous Reactors" id="2547888957" />
+  <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="NT Pharmacy" id="2804655816" />
+  <Workshop name="Neurotrauma Cybernetics" id="2788543375" />
+  <Workshop name="Combat Overhaul Redux (COR)" id="2938755466" />
+  <Workshop name="Room FX" id="2817569414" />
+  <Workshop name="BetterHealthUI" id="2807158602" />
+  <Workshop name="BetterFabricatorUI" id="2811300302" />
+  <Workshop name="Better Connection Panel UI" id="2893206628" />
+  <Workshop name="Storage Icons" id="2920200449" />
+  <Workshop name="Local Voice Fix [Lua update]" id="2362585294" />
+  <Workshop name="Combinable Ammo Revived (NOW WORKS WITH ALL AMMO)" id="2799051561" />
+  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
+  <Workshop name="Lua Linker" id="2852315967" />
+  <Workshop name="Combat Overhaul Redux(COR) REBORN" id="2958383207" />
+</mods>

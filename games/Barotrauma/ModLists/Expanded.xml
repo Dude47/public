@@ -32,7 +32,8 @@
   <Workshop name="Improved Husks" id="2085783214" />
   <Workshop name="NT Pharmacy" id="2804655816" />
   <Workshop name="Neurotrauma Cybernetics" id="2788543375" />
-  <Workshop name="Combat Overhaul Redux (COR)" id="2938755466" />
+  <!-- <Workshop name="Combat Overhaul Redux (COR)" id="2938755466" /> -->
+  <Workshop name="Combat Overhaul Redux (COR) Fixed" id="2963898037" />
   <Workshop name="Room FX" id="2817569414" />
   <Workshop name="BetterHealthUI" id="2807158602" />
   <Workshop name="BetterFabricatorUI" id="2811300302" />

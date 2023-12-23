@@ -1,0 +1,11 @@
+{
+  "SteamLogin": "Dude_4700",
+  "PasswordFormat": 2,
+  "SteamPassword": "encodedSecretHere",
+  "Enabled": true,
+  "OnlineStatus": 0,
+  "TradingPreferences": 1,
+  "Paused": true,
+  "SkipRefundableGames": true,
+  "RedeemingPreferences": 5
+}
